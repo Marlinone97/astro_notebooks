@@ -1,0 +1,13 @@
+User                                                Cores   Memory     GPUs
+
+Account, Student_8                                   1.69     1.65     0.00
+Account, Stud_ 15                                   52.96   106.94     0.00
+Account, account Stud_26                             9.90     9.67     0.00
+Account, 10                                          4.15     2.08     0.00
+Account, Student 10                                559.91   549.26     0.00
+Account, Stud_20                                    40.25    45.38     0.00
+Account, Stud_12                                     5.21    14.96     0.00
+Account, Stud_13                                   677.27  2276.67     0.00
+Account, Stud_24                                     0.32     0.32     0.00
+
+TOTAL                                             1351.75  3007.02     0.00
