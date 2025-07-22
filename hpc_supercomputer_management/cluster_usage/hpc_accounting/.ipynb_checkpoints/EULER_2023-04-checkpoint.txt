@@ -1,0 +1,22 @@
+User                                                Cores   Memory     GPUs
+
+Account, Student                                    15.64    31.28     0.00
+Account, Student 2                                   0.41     0.41     0.00
+Account, Student 3                                   0.17     0.17     0.00
+Account, Student 4                                   1.08     1.11     0.00
+Account, Student 5                                   3.98     3.98     0.00
+Account, Student 6                                   4.77     4.65     0.00
+Account, Student 7                                   6.27    12.54     0.00
+Bhowal, Sayantika                                   68.93    97.11     0.00
+Carta, Alberto                                       7.59     7.41     0.00
+Grosso, Bastien Francesco                          411.41   411.41     0.00
+Marin, Luca                                         15.10    30.21     0.00
+Mlkvik, Peter                                        0.50     0.50     0.00
+Romao, Carl Peter                                   42.79    41.79     0.00
+Schmidt, Jonathan                                    4.22     4.22     0.00
+Simmen, Edith                                       20.64    20.64     0.00
+Urru, Andrea                                        23.84    46.59     0.00
+Verbeek, Xanthe                                     27.79    30.96     0.00
+Weber, Sophie                                      175.17   799.47     0.00
+
+TOTAL                                              830.32  1544.46     0.00

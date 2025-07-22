@@ -1,0 +1,16 @@
+User                                                Cores   Memory     GPUs
+
+Account, Student                                   233.95   402.22     0.00
+Account, Student_8                                    3.16     3.16     0.00
+Dick, Claire                                         0.53     0.90     0.00
+Account, Student_9                                    159.88   595.53     0.00
+Account account, Stud_22                              63.07   109.62     0.00
+Account, Stud_18                                        579.92  1206.48     0.00
+Account, 10                                        0.50     0.50     0.00
+Richter, Jessica                                  1112.26  3327.20     0.00
+Account, Stud_11                                       24.42    33.09     0.00
+Account, Stud_12                                        50.43    96.00     0.00
+Account, Stud_13                                    125.39   250.73     0.00
+Account, Stud_14                                      344.95   689.78     0.00
+
+TOTAL                                             2698.47  6715.24     0.00

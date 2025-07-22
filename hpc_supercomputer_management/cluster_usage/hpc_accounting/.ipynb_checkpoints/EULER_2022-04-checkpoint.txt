@@ -1,0 +1,17 @@
+User                                 Cores   Memory     GPUs
+
+Bhowal, Sayantika                     1.12     3.29     0.00
+Chen, Yuting                         30.75   110.07     0.00
+Esswein, Tobias                     823.92   420.72     0.00
+Jensen, Mie Engelbrecht               1.16     1.13     0.00
+Matas, Marek                          7.24    68.70     0.00
+Mlkvik, Peter                         3.95     2.07     0.00
+Natsch, Nelly                        14.21     6.94     0.00
+Romao, Carl Peter                    12.86    12.57     0.00
+Si, Mayan                            91.03    91.03     0.00
+Urru, Andrea                          0.72     1.69     0.00
+Verbeek, Xanthe                       3.80    10.59     0.00
+Weber, Sophie                        22.87    66.31     0.00
+Wright, Jacob                        13.24    26.48     0.00
+
+TOTAL                              1026.89   821.59     0.00

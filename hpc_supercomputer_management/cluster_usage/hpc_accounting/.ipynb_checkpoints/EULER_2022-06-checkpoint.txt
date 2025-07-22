@@ -1,0 +1,13 @@
+User                                 Cores   Memory     GPUs
+
+Bhowal, Sayantika                     1.69     1.65     0.00
+Grosso, Bastien Francesco            52.96   106.94     0.00
+Jensen, Mie Engelbrecht               9.90     9.67     0.00
+Mlkvik, Peter                         4.15     2.08     0.00
+Romao, Carl Peter                   559.91   549.26     0.00
+Si, Mayan                            40.25    45.38     0.00
+Urru, Andrea                          5.21    14.96     0.00
+Verbeek, Xanthe                     677.27  2276.67     0.00
+Zhang, Rong                           0.32     0.32     0.00
+
+TOTAL                              1351.75  3007.02     0.00
